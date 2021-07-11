@@ -16,6 +16,9 @@ I test effettuati per Syncope sono disponibili ai seguenti link:
      - https://github.com/martina97/syncope/blob/main/core/spring/src/test/java/org/apache/syncope/core/spring/security/MyEncryptorVerifyTest.java
      
 Link TravisCI e SonarCloud:
+- JCS
+     - https://www.travis-ci.com/github/martina97/JCS-Tests
+     - https://sonarcloud.io/dashboard?id=Martina97_JCS-Tests
 - BookKeeper
      - https://www.travis-ci.com/github/martina97/bookkeeper
      - https://sonarcloud.io/dashboard?id=martina97_bookkeeper
