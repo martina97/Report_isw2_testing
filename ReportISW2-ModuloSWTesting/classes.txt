@@ -1,0 +1,13 @@
+BookKeeper:
+
+org.apache.bookkeeper.client.BookKeeper
+org.apache.bookkeeper.client.impl.LedgerEntriesImpl
+org.apache.bookkeeper.bookie.storage.ldb.ReadCache
+org.apache.bookkeeper.bookie.storage.ldb.WriteCache
+
+Syncope:
+
+org.apache.syncope.core.spring.security.Encryptor
+org.apache.syncope.core.provisioning.api.utils.FormatUtils
+org.apache.syncope.core.provisioning.api.utils.RealmUtils
+
