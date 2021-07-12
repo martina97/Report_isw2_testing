@@ -22,3 +22,6 @@ Link TravisCI e SonarCloud:
 - BookKeeper
      - https://www.travis-ci.com/github/martina97/bookkeeper
      - https://sonarcloud.io/dashboard?id=martina97_bookkeeper
+- Syncope
+     - https://travis-ci.com/github/martina97/syncope
+     - https://sonarcloud.io/dashboard?id=martina97_syncope
